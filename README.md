@@ -73,8 +73,7 @@ I enjoy turning complex systems into things people can **build, understand, and 
 ### Design Tools
 
 <p>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=ai,ae,figma"/>
 </p>
 
 ---
