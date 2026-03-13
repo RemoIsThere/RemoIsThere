@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<h1 align="center">Rehmat Papneja</h1>
+<h1 align="center">Rehmat Kunmar</h1>
 <h3 align="center">Developer • System Builder • Computer Science Educator</h3>
 
 <p align="center">
